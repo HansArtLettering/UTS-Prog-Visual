@@ -1,4 +1,7 @@
 # UTS Pemograman Visual
+# Nama  = Farhan Zulfahriansyah
+# Kelas = TI.22.A.5
+# NIM   = 312210494
 1. Cek Koneksi
    ![CekKoneksi](https://github.com/user-attachments/assets/373c921b-7657-49b3-94e5-a09c3b0cccde)
 2. Form Biodata
